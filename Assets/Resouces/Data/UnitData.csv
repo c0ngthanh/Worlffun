@@ -1,6 +1,0 @@
-﻿ID,Name,Time,MaxValue,Money
-ID Của Unit,Tên của Unit,Thời gian để sinh ra 1 sản phẩm (s),Số sản phẩm trong 1 vòng đời,Giá của 1 sản phẩm khi bán
-1,Tomato,600,40,
-2,Berrry,900,40,
-3,Cow,1800,100,
-4,Strawberry,300,20,
