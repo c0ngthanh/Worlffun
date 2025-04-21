@@ -9838,8 +9838,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cellPrefab: {fileID: 8315240426213308363, guid: 0c1a877017522064490a50d8978b8095, type: 3}
-  gridWidth: 5
-  gridHeight: 4
+  gridWidth: 1
+  gridHeight: 1
   cellSize: 1
 --- !u!114 &1961577868
 MonoBehaviour:

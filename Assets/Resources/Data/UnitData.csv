@@ -1,6 +1,6 @@
 ﻿ID,Name,Time,MaxValue,Animation
-ID Của Unit,Tên của Unit,Thời gian để sinh ra 1 sản phẩm (s),Số sản phẩm trong 1 vòng đời,Animation của harvert Unit (icon trồng = icon phát triển = icon thu hoạch = icon sản phẩm = icon hạt giống)
-1,Tomato,600,40,HarvestUnit_4=HarvestUnit_5=HarvestUnit_6=HarvestUnit_2=HarvestUnit_3
-2,Berrry,900,40,HarvestUnit_4=HarvestUnit_5=HarvestUnit_6=HarvestUnit_2=HarvestUnit_3
-3,Cow,1800,100,HarvestUnit_4=HarvestUnit_5=HarvestUnit_6=HarvestUnit_2=HarvestUnit_3
-4,Strawberry,300,20,HarvestUnit_4=HarvestUnit_5=HarvestUnit_6=HarvestUnit_2=HarvestUnit_3
+ID Của Unit,Tên của Unit,Thời gian để sinh ra 1 sản phẩm (s),Số sản phẩm trong 1 vòng đời,Animation của harvert Unit 
+1,Carrot,5,40,Carrot
+2,Onion,5,40,Onion
+3,Cow,5,100,Cow
+4,SugarBeet,5,20,SugarBeet

@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 283824450986725992}
   - component: {fileID: 6220169591164773257}
   - component: {fileID: 6850257275819278061}
+  - component: {fileID: 9043478954118926551}
   m_Layer: 0
   m_Name: HarvestUnit
   m_TagString: Untagged
@@ -97,7 +98,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0f8182f408a6bd43baf4a281ced98a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  harvestUnitType: 1
+  harvestUnitType: 2
+--- !u!95 &9043478954118926551
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6125766109079198288}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9d64a513f7b7b1641be48b9fbe552283, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &8315240426213308363
 GameObject:
   m_ObjectHideFlags: 0

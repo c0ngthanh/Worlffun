@@ -7,7 +7,7 @@ public class UnitData : CSVData
         public string unitName;
         public int Time;
         public int MaxValue;
-        public string[] spriteName;
+        public string animationName;
     }
 
     public RowData[] Table { get; private set; }
@@ -24,7 +24,7 @@ public class UnitData : CSVData
                 unitName = fields[1],
                 Time = int.Parse(fields[2]),
                 MaxValue = int.Parse(fields[3]),
-                spriteName = fields[4].Split('=') // Split sprite names by '='
+                animationName = fields[4]
             };
         }
     }
